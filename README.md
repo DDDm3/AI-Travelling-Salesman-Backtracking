@@ -11,7 +11,7 @@
 * Bước 4: Dán link trên vào và chọn đường dẫn phù hợp để lưu. Sau đó nhấn *Clone*.
 * Bước 5: Vào thư mục đã chọn để Clone, nhấn mở ```---``` và chạy chương trình.
 ## Lưu ý: Nhớ cài thêm các module như PyQt6, networkx, matplotlib
-  <br>
+
 ## Thành viên
 | **Tên** |
 ----------|
