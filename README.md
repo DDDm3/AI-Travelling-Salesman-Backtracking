@@ -1,6 +1,6 @@
 # Employee Management OOP Final
 ## Giới thiệu
-Đây là dự án kết thúc môn học môn Trí Tuệ Nhân Tạo (AI) với chủ đề là về XÂY DỰNG BÀI TOÁN NGƯỜI BÁN HÀNG DỰA TRÊN GIẢI THUẬT QUAY LUI được thực hiện bởi 4 sinh viên tại Đại học Kinh tế Thành phố Hồ Chí Minh (UEH).
+Đây là dự án kết thúc môn học môn Trí Tuệ Nhân Tạo (AI) với chủ đề là về XÂY DỰNG BÀI TOÁN NGƯỜI DU LỊCH DỰA TRÊN GIẢI THUẬT QUAY LUI được thực hiện bởi 4 sinh viên tại Đại học Kinh tế Thành phố Hồ Chí Minh (UEH).
 ## Cách cài đặt
 * Bước 1: Tải Visual Studio về máy
 * Bước 2: Copy link này
