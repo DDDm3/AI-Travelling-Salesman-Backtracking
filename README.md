@@ -5,7 +5,7 @@
 * Bước 1: Tải Visual Studio về máy
 * Bước 2: Copy link này
   ```
-  [https://github.com/DDDm3/AI-Travelling-Salesman-Backtracking]
+  https://github.com/DDDm3/AI-Travelling-Salesman-Backtracking
   ```
 * Bước 3: Mở Visual Studio lên, nhấn vào *Clone a repository*
 * Bước 4: Dán link trên vào và chọn đường dẫn phù hợp để lưu. Sau đó nhấn *Clone*.
