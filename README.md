@@ -1,4 +1,4 @@
-# Employee Management OOP Final
+# SOLVING TRAVELING PROBLEM BY BACKTRACKING ALGORITHM AI Final
 ## Giới thiệu
 Đây là dự án kết thúc môn học môn Trí Tuệ Nhân Tạo (AI) với chủ đề là về XÂY DỰNG BÀI TOÁN NGƯỜI DU LỊCH DỰA TRÊN GIẢI THUẬT QUAY LUI được thực hiện bởi 4 sinh viên tại Đại học Kinh tế Thành phố Hồ Chí Minh (UEH).
 ## Cách cài đặt
@@ -10,6 +10,7 @@
 * Bước 3: Mở Visual Studio lên, nhấn vào *Clone a repository*
 * Bước 4: Dán link trên vào và chọn đường dẫn phù hợp để lưu. Sau đó nhấn *Clone*.
 * Bước 5: Vào thư mục đã chọn để Clone, nhấn mở ```---``` và chạy chương trình.
+## Lưu ý: Nhớ cài thêm các module như PyQt6, networkx, matplotlib
   <br>
 ## Thành viên
 | **Tên** |
